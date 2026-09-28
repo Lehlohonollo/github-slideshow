@@ -1,0 +1,3 @@
+# Base44 dev override: serve the site at the preview root (empty baseurl)
+# instead of the repo's "/github-slideshow" subpath.
+baseurl: ""
